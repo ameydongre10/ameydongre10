@@ -58,7 +58,7 @@ I am a passionate **Computer Science & Engineering student at PSIT Kanpur (AKTU)
 
 - 🥉 **Top 100 Finalist — Hack Hatch 2025 (E-Cell IIIT Delhi):** Ranked among the top 100 teams out of **2,500+ nationwide teams**.
 - 🥇 **1st Place Winner — ProTech Event (PSIT Kanpur):** Secured 1st position for technical presentation & project execution *(Featured in local news)*.
-- ⚡ **Participant — IEEE Xtreme 19.0:** Competed in the 24-hour virtual competitive programming competition.
+- ⚡ **Participant — IEEE Xtreme 19.0:** Competed in the 24-hour virtual competitive programming competition with global rank of 1146/8169 registered team .
 - 🔬 **IIT Kanpur VLSI Symposium:** Attended the IEEE Symposium on Microelectronics & VLSI (*"Confluence of VLSI Minds 2025"*) at IIT Kanpur.
 
 ---
