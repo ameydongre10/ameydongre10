@@ -11,6 +11,9 @@
   <a href="https://github.com/ameydongre10">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.researchgate.net/profile/Amey-Dongre-2?ev=hdr_xprf" target="_blank">
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+</a>
 </p>
 
 <p align="center">
