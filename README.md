@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Amey Dongre 👋</h1>
-<h3 align="center">AI/ML Developer | Data Analytics | Engineering Leader & IEEE RAS Chair</h3>
+<h3 align="center">AI/ML Developer | DSA | Data Analytics | Engineering Leader & IEEE RAS Chair</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/amey-dongre-58a597321">
