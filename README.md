@@ -126,6 +126,9 @@ I am a passionate **Computer Science & Engineering student at PSIT Kanpur (AKTU)
   <a href="mailto:amey.dongre2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
+  <a href="https://www.instagram.com/_amey_dongre_?igsh=MWNhN3prODNocDR5YQ==">
+    <img src=""https://img.shields.io/badge" alt="Instagram"/>
+  </a>
 </p>
 
 <p align="center">
