@@ -133,5 +133,7 @@ I am a passionate **Computer Science & Engineering student at PSIT Kanpur (AKTU)
 </p>
 
 <p align="center">
-  <i>"Passionate about leveraging technology to build scalable, intelligent, and impactful software solutions."</i>
+  <i>"The life you want tomorrow is created by the choices you make today."</i>
 </p>
+
+
