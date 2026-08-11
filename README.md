@@ -1,6 +1,5 @@
-<H1 align="center">Amey Dongre</H1>
-
-<h2 align="center">Scalable &nbsp;|&nbsp; Intelligent &nbsp;|&nbsp; Robust</h2>
+<h1 align="center">Hi there, I'm Amey Dongre 👋</h1>
+<h3 align="center">AI/ML Developer | Data Analytics | Engineering Leader & IEEE RAS Chair</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
