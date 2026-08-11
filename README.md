@@ -35,7 +35,7 @@
 ### **I am a proactive and team-oriented professional pursuing a BTech in Computer Science and Engineering, with a strong passion for project-based work. Currently gaining hands-on experience as an AI/ML Intern at FlyRank AI, I enjoy collaborating with diverse teams, taking on leadership and management roles, and driving results with clarity and commitment.  As an active volunteer, I bring energy, organization, and a people-first approach to every initiative I lead, including my current roles as Chair for IEEE RAS and Treasurer for the IEEE-PSIT Student Branch. I am deeply interested in pursuing research work. Furthermore, I am always eager to learn, lead, and make a meaningful impact in the field.**
 
 ```bash
-ameydongre@github:~$ ./show-about.sh
+**Key Highlights**
 
 🔭  FlyRank AI — AI/ML Intern focusing on Machine Learning & Predictive Analytics
 🎓  Education — BTech in Computer Science & Engineering @ PSIT Kanpur (AKTU)
