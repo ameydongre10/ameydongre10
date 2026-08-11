@@ -1,5 +1,22 @@
-<h1 align="center">Hi there, I'm Amey Dongre 👋</h1>
-<h3 align="center">AI/ML Developer | Data Analytics | Engineering Leader & IEEE RAS Chair</h3>
+```text
+ameydongre10 / README.md                                                                ● active
+──────────────────────────────────────────────────────────────────────────────────────────────────
+ameydongre@github : ~$ cat profile.txt
+
+Amey Dongre
+AI/ML Developer · Machine Learning & Data Analytics
+```
+
+<h2 align="center">Scalable &nbsp;|&nbsp; Intelligent &nbsp;|&nbsp; Robust</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/amey-dongre-58a597321">
@@ -11,6 +28,9 @@
   <a href="https://github.com/ameydongre10">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.researchgate.net/profile/Amey-Dongre-2?ev=hdr_xprf" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+  </a>
 </p>
 
 <p align="center">
@@ -19,79 +39,74 @@
 
 ---
 
-### 💫 About Me
+## 📖 About Me
 
-I am a passionate **Computer Science & Engineering student at PSIT Kanpur (AKTU)** and an **AI/ML Intern at FlyRank AI**. Driven by curiosity and technical growth, I specialize in building machine learning models, conducting deep data analytics, and driving tech communities forward through student leadership at IEEE.
+### **An AI/ML Developer & Engineering Leader passionate about Machine Learning, Data Analytics & Tech Innovation**
 
-- 🔭 **Current Role:** AI/ML Intern at **FlyRank AI** focusing on Machine Learning & Predictive Analytics.
-- 🎓 **Education:** BTech in Computer Science and Engineering at **PSIT Kanpur (AKTU)**.
-- 👑 **Community Leadership:** Chair at **IEEE RAS PSIT** | Treasurer at **IEEE PSIT Student Branch** | Ex-Chair at **IEEE SIGHT**.
-- 💡 **Core Interests:** Artificial Intelligence, Machine Learning, Data Analytics, Cloud Computing & System Design.
-- 🎯 **Goal:** Architecting high-impact AI/ML solutions and driving engineering innovation.
+```bash
+ameydongre@github:~$ ./show-about.sh
 
----
-
-### 👑 Experience & Leadership
-
-```
-  ┌──────────────────────────────────────────────────────────────────────────┐
-  │ 🤖 AI/ML Intern @ FlyRank AI                                             │
-  │    Developing, training, and evaluating Machine Learning models.          │
-  ├──────────────────────────────────────────────────────────────────────────┤
-  │ 🚀 Chair @ IEEE Robotics & Automation Society (RAS) PSIT                 │
-  │    Leading technical workshops, robotics hackathons, and research tracks. │
-  ├──────────────────────────────────────────────────────────────────────────┤
-  │ 💼 Treasurer @ IEEE PSIT Student Branch                                  │
-  │    Managing operations, budgeting, and strategy for student initiatives. │
-  ├──────────────────────────────────────────────────────────────────────────┤
-  │ 🌟 Ex-Chair @ IEEE SIGHT (Special Interest Group on Humanitarian Tech)  │
-  │    Spearheaded technology projects aimed at solving real-world issues.   │
-  ├──────────────────────────────────────────────────────────────────────────┤
-  │ 📢 Campus Ambassador @ Cognizance (IIT Roorkee) & Techkriti (IIT Kanpur) │
-  │    Represented premier national tech fests and drove student outreach.   │
-  └──────────────────────────────────────────────────────────────────────────┘
+🔭  FlyRank AI — AI/ML Intern focusing on Machine Learning & Predictive Analytics
+🎓  Education — BTech in Computer Science & Engineering @ PSIT Kanpur (AKTU)
+👑  Leadership — Chair @ IEEE RAS PSIT | Treasurer @ IEEE PSIT Student Branch | Ex-Chair @ IEEE SIGHT
+💡  Core Focus — Artificial Intelligence, Machine Learning, Data Analytics & System Design
+🎯  Goal — Architecting high-impact AI/ML solutions and driving engineering innovation
 ```
 
 ---
 
-### 🏆 Achievements & Competitions
+## 🛠️ Tech Stack
 
-- 🥉 **Top 100 Finalist — Hack Hatch 2025 (E-Cell IIIT Delhi):** Ranked among the top 100 teams out of **2,500+ nationwide teams**.
+### **Languages**
+[![Languages](https://skillicons.dev/icons?i=java,js,ts,py,cpp)](https://skillicons.dev)
+
+### **Frontend**
+[![Frontend](https://skillicons.dev/icons?i=react,vite,html,css)](https://skillicons.dev)
+
+### **Backend & Frameworks**
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,nestjs,graphql,fastapi,flask)](https://skillicons.dev)
+
+### **Databases**
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma)](https://skillicons.dev)
+
+### **DevOps & Tools**
+[![DevOps & Tools](https://skillicons.dev/icons?i=docker,git,githubactions,nginx,postman,linux,firebase)](https://skillicons.dev)
+
+---
+
+## 👑 Experience & Leadership
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│ 🤖 AI/ML Intern @ FlyRank AI                                             │
+│    Developing, training, and evaluating Machine Learning models.          │
+├──────────────────────────────────────────────────────────────────────────┤
+│ 🚀 Chair @ IEEE Robotics & Automation Society (RAS) PSIT                 │
+│    Leading technical workshops, robotics hackathons, and research tracks. │
+├──────────────────────────────────────────────────────────────────────────┤
+│ 💼 Treasurer @ IEEE PSIT Student Branch                                  │
+│    Managing operations, budgeting, and strategy for student initiatives. │
+├──────────────────────────────────────────────────────────────────────────┤
+│ 🌟 Ex-Chair @ IEEE SIGHT (Special Interest Group on Humanitarian Tech)  │
+│    Spearheaded technology projects aimed at solving real-world issues.   │
+├──────────────────────────────────────────────────────────────────────────┤
+│ 📢 Campus Ambassador @ Cognizance (IIT Roorkee) & Techkriti (IIT Kanpur) │
+│    Represented premier national tech fests and drove student outreach.   │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🏆 Achievements & Competitions
+
+- 🥉 **Top 100 Finalist — Hack Hatch 2025 (E-Cell IIIT Delhi):** Ranked among top 100 teams out of **2,500+ nationwide teams**.
 - 🥇 **1st Place Winner — ProTech Event (PSIT Kanpur):** Secured 1st position for technical presentation & project execution *(Featured in local news)*.
-- ⚡ **Participant — IEEE Xtreme 19.0:** Competed in the 24-hour virtual competitive programming competition.
-- 🔬 **IIT Kanpur VLSI Symposium:** Attended the IEEE Symposium on Microelectronics & VLSI (*"Confluence of VLSI Minds 2025"*) at IIT Kanpur.
+- ⚡ **Participant — IEEE Xtreme 19.0:** Competed in 24-hour virtual competitive programming contest.
+- 🔬 **IIT Kanpur VLSI Symposium:** Attended IEEE Symposium on Microelectronics & VLSI (*"Confluence of VLSI Minds 2025"*) at IIT Kanpur.
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
-#### **Programming & Core Computer Science**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-#### **AI, Data Science & Analytics**
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-013220?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-</p>
-
-#### **Cloud, Infrastructure & Management**
-<p>
-  <img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Computing" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Marketing%20Strategy-FF4081?style=for-the-badge&logo=target&logoColor=white" alt="Marketing Strategy" />
-  <img src="https://img.shields.io/badge/Social%20Media-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Social Media" />
-</p>
-
----
-
-### 📜 Certifications & Simulations
+## 📜 Certifications & Simulations
 
 - 📊 **Deloitte Australia** — *Data Analytics Job Simulation*
 - ✈️ **British Airways** — *Data Science Job Simulation*
@@ -100,7 +115,7 @@ I am a passionate **Computer Science & Engineering student at PSIT Kanpur (AKTU)
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ameydongre10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amey's GitHub Stats" width="48%" />
@@ -113,13 +128,13 @@ I am a passionate **Computer Science & Engineering student at PSIT Kanpur (AKTU)
 
 ---
 
-### 📬 Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/amey-dongre-58a597321">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:amey.dongre2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
