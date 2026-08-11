@@ -32,7 +32,7 @@
 
 ## 📖 About Me
 
-### **An AI/ML Developer & Engineering Leader passionate about Machine Learning, Data Analytics & Tech Innovation**
+### **I am a proactive and team-oriented professional pursuing a BTech in Computer Science and Engineering, with a strong passion for project-based work. Currently gaining hands-on experience as an AI/ML Intern at FlyRank AI, I enjoy collaborating with diverse teams, taking on leadership and management roles, and driving results with clarity and commitment.  As an active volunteer, I bring energy, organization, and a people-first approach to every initiative I lead, including my current roles as Chair for IEEE RAS and Treasurer for the IEEE-PSIT Student Branch. I am deeply interested in pursuing research work. Furthermore, I am always eager to learn, lead, and make a meaningful impact in the field.**
 
 ```bash
 ameydongre@github:~$ ./show-about.sh
@@ -40,7 +40,7 @@ ameydongre@github:~$ ./show-about.sh
 🔭  FlyRank AI — AI/ML Intern focusing on Machine Learning & Predictive Analytics
 🎓  Education — BTech in Computer Science & Engineering @ PSIT Kanpur (AKTU)
 👑  Leadership — Chair @ IEEE RAS PSIT | Treasurer @ IEEE PSIT Student Branch | Ex-Chair @ IEEE SIGHT
-💡  Core Focus — Artificial Intelligence, Machine Learning, Data Analytics & System Design
+💡  Core Focus — Artificial Intelligence, Machine Learning, Data Analytics & DSA
 🎯  Goal — Architecting high-impact AI/ML solutions and driving engineering innovation
 ```
 
@@ -70,7 +70,7 @@ ameydongre@github:~$ ./show-about.sh
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
 │ 🤖 AI/ML Intern @ FlyRank AI                                             │
-│    Developing, training, and evaluating Machine Learning models.          │
+│    Developing, training, and evaluating Machine Learning models.         │
 ├──────────────────────────────────────────────────────────────────────────┤
 │ 🚀 Chair @ IEEE Robotics & Automation Society (RAS) PSIT                 │
 │    Leading technical workshops, robotics hackathons, and research tracks. │
@@ -91,8 +91,8 @@ ameydongre@github:~$ ./show-about.sh
 ## 🏆 Achievements & Competitions
 
 - 🥉 **Top 100 Finalist — Hack Hatch 2025 (E-Cell IIIT Delhi):** Ranked among top 100 teams out of **2,500+ nationwide teams**.
-- 🥇 **1st Place Winner — ProTech Event (PSIT Kanpur):** Secured 1st position for technical presentation & project execution *(Featured in local news)*.
-- ⚡ **Participant — IEEE Xtreme 19.0:** Competed in 24-hour virtual competitive programming contest.
+- 🥇 **Winner — ProTech Event (PSIT Kanpur):** Secured 13st position for technical presentation & project execution *(Featured in local news)*.
+- ⚡ **Participant — IEEE Xtreme 19.0:** Competed in 24-hour virtual competitive programming contest.8169 registered teams worldwide, we secured an impressive                                               global rank of 1146  🏆.
 - 🔬 **IIT Kanpur VLSI Symposium:** Attended IEEE Symposium on Microelectronics & VLSI (*"Confluence of VLSI Minds 2025"*) at IIT Kanpur.
 
 ---
