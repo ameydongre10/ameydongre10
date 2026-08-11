@@ -35,15 +35,6 @@
 ### **I am a proactive and team-oriented professional pursuing a BTech in Computer Science and Engineering, with a strong passion for project-based work. Currently gaining hands-on experience as an AI/ML Intern at FlyRank AI, I enjoy collaborating with diverse teams, taking on leadership and management roles, and driving results with clarity and commitment.  As an active volunteer, I bring energy, organization, and a people-first approach to every initiative I lead, including my current roles as Chair for IEEE RAS and Treasurer for the IEEE-PSIT Student Branch. I am deeply interested in pursuing research work. Furthermore, I am always eager to learn, lead, and make a meaningful impact in the field.**
 
 ```bash
-**Key Highlights**
-
-🔭  FlyRank AI — AI/ML Intern focusing on Machine Learning & Predictive Analytics
-🎓  Education — BTech in Computer Science & Engineering @ PSIT Kanpur (AKTU)
-👑  Leadership — Chair @ IEEE RAS PSIT | Treasurer @ IEEE PSIT Student Branch | Ex-Chair @ IEEE SIGHT
-💡  Core Focus — Artificial Intelligence, Machine Learning, Data Analytics & DSA
-🎯  Goal — Architecting high-impact AI/ML solutions and driving engineering innovation
-```
-
 ---
 
 ## 🛠️ Tech Stack
@@ -72,16 +63,16 @@
 │ 🤖 AI/ML Intern @ FlyRank AI                                             │
 │    Developing, training, and evaluating Machine Learning models.         │
 ├──────────────────────────────────────────────────────────────────────────┤
-│ 🚀 Chair @ IEEE Robotics & Automation Society (RAS) PSIT                 │
-│    Leading technical workshops, robotics hackathons, and research tracks. │
+│ 🚀 Chair @ IEEE Robotics & Automation Society (RAS) PSIT                │
+│    Leading technical workshops, robotics hackathons, and research tracks.│
 ├──────────────────────────────────────────────────────────────────────────┤
-│ 💼 Treasurer @ IEEE PSIT Student Branch                                  │
+│ 💼 Treasurer @ IEEE PSIT Student Branch                                 │
 │    Managing operations, budgeting, and strategy for student initiatives. │
 ├──────────────────────────────────────────────────────────────────────────┤
 │ 🌟 Ex-Chair @ IEEE SIGHT (Special Interest Group on Humanitarian Tech)  │
 │    Spearheaded technology projects aimed at solving real-world issues.   │
 ├──────────────────────────────────────────────────────────────────────────┤
-│ 📢 Campus Ambassador @ Cognizance (IIT Roorkee) & Techkriti (IIT Kanpur) │
+│ 📢 Campus Ambassador @ Cognizance (IIT Roorkee) & Techkriti (IIT Kanpur)│
 │    Represented premier national tech fests and drove student outreach.   │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
