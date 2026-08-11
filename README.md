@@ -1,11 +1,4 @@
-```text
-ameydongre10 / README.md                                                                ● active
-──────────────────────────────────────────────────────────────────────────────────────────────────
-ameydongre@github : ~$ cat profile.txt
-
-Amey Dongre
-AI/ML Developer · Machine Learning & Data Analytics
-```
+<H1>Amey Dongre</H1>
 
 <h2 align="center">Scalable &nbsp;|&nbsp; Intelligent &nbsp;|&nbsp; Robust</h2>
 
