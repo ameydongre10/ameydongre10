@@ -1,4 +1,4 @@
-<H1>Amey Dongre</H1>
+<H1 align="center">Amey Dongre</H1>
 
 <h2 align="center">Scalable &nbsp;|&nbsp; Intelligent &nbsp;|&nbsp; Robust</h2>
 
