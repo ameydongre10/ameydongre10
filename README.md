@@ -34,67 +34,6 @@ Outside of building, I lead technical communities through **IEEE PSIT** as IEEE 
 
 ---
 
-## Featured Projects
-
-### [Enterprise Multi-Vector Hybrid RAG & Context Engineering Engine](https://github.com/ameydongre10/Enterprise-Multi-Vector-Hybrid-RAG-Search-Engine)
-
-An asynchronous enterprise information retrieval system designed to solve four specific failure modes that cause standard RAG implementations to break on real-world unstructured corporate data (financial filings, medical records, legal contracts, tabular data).
-
-**Core engineering decisions:**
-- **Contextualized Parent-Child Chunking** — prepends a document-level summary header to every 512-token chunk before vectorisation, preserving global context within each retrieved fragment.
-- **Dual-Path Hybrid Retrieval** — executes Dense Vector Search (768-dim Gemini embeddings via pgvector) and Sparse BM25 lexical search concurrently through thread pools, then fuses results using Reciprocal Rank Fusion (RRF).
-- **Cross-Encoder Reranking** — a secondary scoring pass prunes the fused candidate pool to Top-5 contextually aligned results.
-- **Grounded Citation Synthesis** — all answers are synthesised with inline citation tags tied to source metadata (document name, page number, raw snippet), with a RAGAS evaluation suite measuring Faithfulness, Answer Relevance, Context Recall, and Context Precision.
-- **Non-blocking Ingestion** — multi-megabyte document uploads are processed as async background tasks (returning a task ID immediately), preventing HTTP thread starvation.
-
-**Stack:** Python 3.11 · FastAPI · React 18 · PostgreSQL 16 + pgvector · Google Gemini 2.5 Flash · BM25Okapi · Sentence Transformers · RAGAS
-
-**Live:** [Frontend](https://enterprise-multi-vector-hybrid-rag.vercel.app) · [Backend API](https://enterprise-multi-vector-hybrid-rag-search-engine.onrender.com) · [Swagger Docs](https://enterprise-multi-vector-hybrid-rag-search-engine.onrender.com/docs)
-
----
-
-### [Artist Intelligence & Recommendation System (AIRS)](https://github.com/ameydongre10/artist-intelligence-recommendation-system)
-
-A talent matching system built around the observation that keyword-search and black-box embedding recommenders frequently hallucinate capability assessments — treating self-reported profile claims the same as demonstrated portfolio evidence.
-
-AIRS enforces a four-state **Epistemic Separation Model**: `DEMONSTRATED_EVIDENCE` (verified media, 1.0× weight), `CLAIM` (self-reported, 0.4× weight), `ASSUMPTION` (contextual inference, 0×), and `UNKNOWN` (neutral, 0 penalty — absence of evidence ≠ incapacity).
-
-**Scoring architecture:** A fully deterministic formula bounded in [0, 100] decomposed into Requirement Fit (≤50 pts), Evidence Strength Bonus (≤30 pts), Constraint Baseline (20 pts), and Conflict Deductions. Outputs a strict Top-2 recommendation with a comparative trade-off analysis and at most two high-impact clarifying questions.
-
-**Stack:** Python 3.10 · FastAPI · Next.js 14 (static export) · Render (primary + failover instances)
-
-**Live:** [Web Console](https://ameydongre10.github.io/artist-intelligence-recommendation-system/) · [Primary API](https://artist-intelligence-recommendation-system-hhdt.onrender.com)
-
----
-
-### [PharmaVigil](https://github.com/ameydongre10/PharmaVigil)
-
-A portfolio prototype for grounded AI-assisted **Periodic Adverse Drug Experience Report (PADER)** generation, targeting the failure modes that make naive LLM integration unsafe in pharmacovigilance contexts (numeric hallucination, causality invention, absent audit trails).
-
-**Architecture pattern:** Deterministic analysis layer runs all arithmetic before any LLM call; structured `EvidenceItem` packets (never raw DataFrames) are passed as LLM context; a regex-based number extraction audit verifies every figure in the generated narrative against pre-computed evidence; all outputs default to `DRAFT_PENDING_REVIEW` until a medical officer explicitly signs off.
-
-Supports multi-provider LLM backends (OpenAI, Gemini, Anthropic, Mock), with 120 automated tests covering analysis, API, evidence isolation, grounding validation, and hardening edge cases.
-
-> *Note: This is a portfolio/interview prototype, not validated software for regulatory submissions or clinical use.*
-
-**Stack:** Python 3.11 · FastAPI · SQLite · OpenAI / Gemini / Anthropic · Pytest (120 tests)
-
-**Live:** [Dashboard](https://ameydongre10.github.io/PharmaVigil/) · [API](https://pader-regulatory-engine.onrender.com) · [Swagger](https://pader-regulatory-engine.onrender.com/docs)
-
----
-
-### [SpendSense](https://github.com/ameydongre10/SpendSense)
-
-A payments-network analytics and fraud risk intelligence system modelling the analytical workflow of a senior risk and portfolio analytics engineer at a card scheme.
-
-Runs a dual-track analysis on 284,807 anonymised card transactions (0.173% fraud rate): a **Risk Track** (XGBoost fraud classifier with cost-sensitive training and AUPRC evaluation against severe class imbalance) and a **Consumer Services Track** (RFM customer segmentation, cohort lifecycle analysis, customer segment profitability modelling). Outputs an interactive editorial dashboard and quantified commercial recommendations.
-
-**Stack:** Python 3.11 · PostgreSQL · SQLite · XGBoost · scikit-learn · FastAPI · Vercel
-
-**Live:** [Dashboard](https://spend-sense-blue-six.vercel.app)
-
----
-
 ## Technical Skills
 
 **Languages**
@@ -150,7 +89,7 @@ Runs a dual-track analysis on 284,807 anonymised card transactions (0.173% fraud
 ## Achievements
 
 - **Top 100 Finalist — Hack Hatch 2025 (E-Cell, IIIT Delhi):** Selected among top 100 teams from 2,500+ nationwide participants.
-- **1st Place — ProTech Event (PSIT Kanpur):** Technical presentation and project execution; covered in local news.
+- **ProTech Event (PSIT Kanpur):** Technical presentation and project execution; covered in local news.
 - **Global Rank 1146 — IEEE Xtreme 19.0:** 24-hour competitive programming contest; ranked 1,146 out of 8,169 registered teams worldwide.
 - **IEEE VLSI Symposium (IIT Kanpur):** Attended *"Confluence of VLSI Minds 2025"* — IEEE Symposium on Microelectronics & VLSI.
 
