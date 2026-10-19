@@ -111,6 +111,16 @@ I am a proactive and team-oriented professional pursuing a BTech in Computer Sci
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameydongre10&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
+### 🐍 Contribution Graph Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ameydongre10/ameydongre10/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ameydongre10/ameydongre10/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ameydongre10/ameydongre10/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ## 📬 Connect With Me
