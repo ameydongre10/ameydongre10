@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ameydongre10&label=Profile+Views&color=7928ca&style=flat-square" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/ameydongre10/ameydongre10.svg?label=Profile+Views&color=7928ca&labelColor=555555&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
