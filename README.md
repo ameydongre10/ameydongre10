@@ -117,11 +117,27 @@ Outside of building, I lead technical communities through **IEEE PSIT** as IEEE 
   <img src="https://streak-stats.demolab.com?user=ameydongre10&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
-### 🎮 Contribution Graph
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameydongre10&theme=tokyonight" alt="GitHub Contributions and Profile Details" width="97%" />
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ameydongre10/ameydongre10/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="95%"/>
-</div>
+### 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ameydongre10/ameydongre10/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ameydongre10/ameydongre10/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ameydongre10/ameydongre10/output/github-snake.svg" width="97%" />
+  </picture>
+</p>
+
+<details>
+  <summary>🎮 <b>Click to toggle Pac-Man Contribution Graph</b></summary>
+  <br/>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/ameydongre10/ameydongre10/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="95%"/>
+  </div>
+</details>
 
 ---
 
