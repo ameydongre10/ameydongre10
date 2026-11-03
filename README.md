@@ -169,3 +169,7 @@ I am open to collaborating on projects in AI/ML systems, information retrieval, 
     <img src="https://img.shields.io/badge/GitHub-ameydongre10-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
 </p>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=14,17,18,24,30" />
+</div>
