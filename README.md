@@ -1,4 +1,6 @@
-<h1 align="center">Amey Dongre</h1>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=14,17,18,24,30&text=Amey%20Dongre&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20B.Tech%20CSE%20Student&descAlignY=60&animation=fadeIn" />
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
